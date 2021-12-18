@@ -64,9 +64,7 @@ Collaboration Tool
 `Front-end`
   + Vue.js 2.6 / Vue Router / Vuex / Vuetify
 
----
-
-### [my-blog-api](https://github.com/Kkaemi/my-blog-api) (개인 프로젝트)
+<!-- ### [my-blog-api](https://github.com/Kkaemi/my-blog-api) (개인 프로젝트)
 > 개인 블로그 api입니다.
 
 개발 기간 : 2021-08-16 ~ 2021-10-21
@@ -75,4 +73,4 @@ Collaboration Tool
 
 사용 기술
   + Typescript / NestJS
-  + MySQL / TypeORM
+  + MySQL / TypeORM -->
